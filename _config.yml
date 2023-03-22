@@ -1,5 +1,6 @@
 # Site Settings
 baseurl: ""
+remote_theme: Grape-Academic-Theme
 
 # Features Setting
 # Turn subpages on or off

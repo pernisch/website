@@ -1,22 +1,12 @@
 - project :
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url: https://github.com/chrjabs/Grape-Academic-Theme # Full URL
+    modal: False # If 'True' is selected, modal can open in 'portfolio.html'. 
+    url: https://gitlab.ifi.uzh.ch/DDIS-Public/chimp-protege-plugin # Full URL
     image:
-      path: "portfolio.png" # path: assets/project/
-      alt: "A screenshot of the portfolio page"
-    date: 05/2022 &ndash; Developing
+      path: "chimp.png" # path: assets/project/
+      alt: "A screenshot of the ChImp plugin."
+    date: 05/2021 &ndash; Published
     title: ChImp
     summary: Change Impact Protege Plugin.
-    description: A Protege plugin that displays the impact of changes, while editing an ontology
-    
+    description: A Protege plugin that displays the impact of changes, while editing an ontology.
 
-- project:
-    print: False # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
-    modal: False # If 'True' is selected, modal can open in 'portfolio.html'. 
-    url:  # Full URL
-    image: # path: assets/project/
-    date: 06/2019 &ndash; Developing
-    title: Dummy project
-    summary: This is a Dummy
-    description:  

@@ -1,7 +1,7 @@
 image: assets/img/smile.png
 username: Romana Pernisch
 description: Postdoctoral researcher at the Vrije Universiteit Amsterdam and part of the Knowledge in AI group and the Discovery Lab.
-webpage: https://pernisch.github.io
+webpage: https://romana.pernisch.ch
 experience: # Remove for hiding the experience section
   - start: 2021-09-01
     end: ongoing
@@ -33,4 +33,5 @@ social:
   facebook:
   instagram:
 awards: # Remove for hiding the awards section
-  - "This is an award I got"
+  - ISWC 2020 Best Demo of the Day Award
+  - ISWC 2019 Best Poster Award

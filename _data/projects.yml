@@ -1,4 +1,4 @@
-- project :
+- project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: https://gitlab.ifi.uzh.ch/DDIS-Public/chimp-protege-plugin # Full URL
@@ -6,7 +6,18 @@
       path: "chimp.png" # path: assets/project/
       alt: "A screenshot of the ChImp plugin."
     date: 05/2021 &ndash; Published
-    title: ChImp
+    title: ChImp - Change Impact Protégé Plugin
     summary: Change Impact Protege Plugin.
     description: A Protege plugin that displays the impact of changes, while editing an ontology.
-    
+
+- project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    image:
+      path: "Demo-presentedby-Luca.png"
+      alt: "Luca Rossetto presenting the LifeGraph at ISWC 2020."
+    date: 06/2020
+    title: LifeGraph and VideoGraph
+    summary: With a team from DDIS (Dynamic and Distributed Information systems, University of Zurich) we participated in two information retrieval challenges, the "Lifelog Search Challenge" and the video retrieval challenge. We used a knowledge graph in the background with a SPARQL interface to query. In the front end we modified the existing system called vitrivr slightly. The keywords were then mapped into triple patterns, also providing suggestions. The knowledge graph construction and systems are detailed <href a=https://www.zora.uzh.ch/id/eprint/187352/1/DDIS___LSC_2020.pdf>here</href> (LifeGraph) and <href a=https://www.zora.uzh.ch/id/eprint/204894/1/2021_VBS_VideoGraph.pdf>here</href> (VideoGraph).
+    description: We used a knowledge graph to retrieve lifelogs and videos to participate in two information retrieval challenges with a team from DDIS (UZH).
+

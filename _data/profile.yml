@@ -12,7 +12,9 @@ experience: # Remove for hiding the experience section
 interests: # Remove for hiding the interests section
   - Semantic Web
   - Ontologies and Knowledge Graphs
-  - Knowledge Evolution
+  - Ontology Engineering
+  - Knowledge Graph Evolution and Change
+  - "Impact of KG evolution on downstream applications: Quantification, Analysis, and Management"
 
 social:
   email:  r.pernisch@vu.nl
@@ -32,6 +34,7 @@ social:
   youtube:
   facebook:
   instagram:
+
 awards: # Remove for hiding the awards section
   - ISWC 2020 Best Demo of the Day Award
   - ISWC 2019 Best Poster Award

@@ -5,7 +5,7 @@ baseurl: ""
 # Turn subpages on or off
 publications: True
 projects: True
-presentations: False
+presentations: True
 blog: False
 
 # Language of the website
@@ -29,7 +29,7 @@ locale: en_GB
 theme_settings:
   title: Grape Academic Theme
 
-  experience_title: EXPERIENCE
+  experience_title: APPOINTMENTS
   interests_title: RESEARCH INTERESTS
   awards_title: AWARDS
   projects_title: PROJECTS
@@ -54,7 +54,7 @@ scholar:
   style: apa
   locale: en
   last_name: Me
-  first_name: [Myself, M.]
+  first_name: [M.]
   sort_by: year,month
   order: descending,ascending
 

@@ -1,28 +1,28 @@
 image: assets/img/smile.png
 username: Romana Pernisch
-description: Postdoctoral researcher at the Vrije Universiteit Amsterdam and part of the Knowledge in AI group and the Discovery Lab.
+description: I'm a postdoctoral researcher at the Vrije Universiteit Amsterdam, specifically in the group Knowledge in Artificial Intelligence (KAI) group and the Discovery Lab. I work on ontology evolution in context of the ontologies downstream applications.
 webpage: https://romana.pernisch.ch
 experience: # Remove for hiding the experience section
   - start: 2021-09-01
     end: ongoing
-    experience : Vrije Universiteit Amsterdam, Postdoctoral Researcher
+    experience : Postdoctoral Researcher at Vrije Universiteit Amsterdam, Netherlands
   - start: 2018-09-01
     end: 2021-08-31
-    experience : University of Zurich, Research Assistant/Doctoral Student
+    experience : Doctoral Student at University of Zurich, Switzerland 
 interests: # Remove for hiding the interests section
-  - Semantic Web
-  - Ontologies and Knowledge Graphs
+  - Ontology Evolution and Change
   - Ontology Engineering
-  - Knowledge Graph Evolution and Change
-  - "Impact of KG evolution on downstream applications: Quantification, Analysis, and Management"
+  - Ontology Downstream Tasks
+  - Ontology Change Impact
+  - Semantic Web
 
 social:
   email:  r.pernisch@vu.nl
-  orcid: 
+  orcid: 0001-8590-1817
   scholar: 
   publons: 
   research_gate: 
-  dblp:  # Full URL
+  dblp:  https://dblp.org/pid/203/6215.html # Full URL
   semantic_scholar:  # Full URL
   linkedin:  # Full URL 
   github: pernisch

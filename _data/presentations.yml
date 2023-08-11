@@ -1,9 +1,19 @@
 - presentation:
-    title: How... using ChImp
-    event: BNAIC 2022
-    date: 10/2022
+    title: Knowledge Evolution and its Impact on Artificial Intelligence
+    event: Visit to Aalborg University, sponsored by the Danish Data Science Association
+    date: 10th May 2023
     comment: 
-    slides: # potential link to slides
+    slides: https://drive.google.com/file/d/1BR_B2hKnUn9Et04h6h6jU6WFTYVEGqlo/view?usp=sharing # potential link to slides
     hub: # potential hub page to link to
     recording: 
+
+- presentation:
+    title: Visualising the effects of ontology changes and studying their understanding with ChImp
+    event: BNAIC/BeNeLearn (Joint International Scientific Conferences on AI and Machine Learning)
+    date: 9th November 2022
+    comment: 
+    slides: https://drive.google.com/file/d/1hZBZ9c4FVb8U4OTRm-S2AShiwO78UQ_f/view?usp=sharing # potential link to slides
+    hub: # potential hub page to link to
+    recording: 
+
 

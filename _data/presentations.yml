@@ -1,4 +1,23 @@
 - presentation:
+    title: Ontology Evolution and its Impact on Artificial Intelligence
+    event: Visit to Vienna University of Economics and Business
+    date: 16th November 2023
+    comment: 
+    slides: https://drive.google.com/file/d/1XuCuEjtY0rWlj0z1V7rYX5ZWQtondfGF/view?usp=sharing # potential link to slides
+    hub: # potential hub page to link to
+    recording: 
+    
+- presentation:
+    title: Improving the Dark Web Classifier with Active
+Learning and Annotation Error Detection
+    event: BNAIC/BeNeLearn (Joint International Scientific Conferences on AI and Machine Learning)
+    date: 9th November 2023
+    comment: Paper available here (https://bnaic2023.tudelft.nl/static/media/BNAICBENELEARN_2023_paper_93.4f595ee45705a776bc21.pdf)
+    slides: 
+    hub: # potential hub page to link to
+    recording: 
+
+- presentation:
     title: Knowledge Evolution and its Impact on Artificial Intelligence
     event: Visit to Aalborg University, sponsored by the Danish Data Science Association
     date: 10th May 2023

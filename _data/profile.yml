@@ -10,10 +10,9 @@ experience: # Remove for hiding the experience section
     end: 2021-08-31
     experience : Doctoral Student at University of Zurich, Switzerland 
 interests: # Remove for hiding the interests section
-  - Ontology Evolution and Change
-  - Ontology Engineering
-  - Ontology Downstream Tasks
-  - Ontology Change Impact
+  - Knowledge Evolution and Change
+  - Knowledge Engineering
+  - Knowledge Change Impact
   - Semantic Web
 
 social:

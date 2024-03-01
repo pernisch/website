@@ -1,0 +1,8 @@
+{% if site.data.profile.roles %}
+  <p class="title">{{ site.theme_settings.roles_title }}</p>
+  <ul class="awards-list">
+    {% for role in site.data.profile.roles %}
+    <li class="award">{{ role }}</li>
+    {% endfor %}
+  </ul>
+{% endif %}

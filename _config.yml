@@ -7,6 +7,7 @@ publications: True
 projects: True
 presentations: True
 blog: False
+roles: True
 
 # Language of the website
 lang: en
@@ -32,6 +33,7 @@ theme_settings:
   experience_title: APPOINTMENTS
   interests_title: RESEARCH INTERESTS
   awards_title: AWARDS
+  roles_title: RECENT ROLES
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 

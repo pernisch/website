@@ -6,3 +6,9 @@
 a {
     text-decoration: underline;
 }
+
+iframe {
+  height: auto;
+  width: 100%;
+  aspect-ratio: 16 / 9;
+}

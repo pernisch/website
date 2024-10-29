@@ -1,4 +1,16 @@
 - project:
+    print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'.
+    modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
+    image:
+      path: "Demo-presentedby-Luca.png"
+      alt: "Luca Rossetto presenting the LifeGraph at ISWC 2020."
+    date: 2024
+    title: Work at Discovery Lab
+    summary: <iframe width="560" height="315" src="https://www.youtube.com/embed/DckH7zpn_IU?si=EPenREDNDVSTErqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    description: Short interview about the work I did at the Discovery Lab.
+
+
+- project:
     print: True # If 'False' is selected, it will not be displayed in 'home.html > aside > .proj-content'. 
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'. 
     url: https://gitlab.ifi.uzh.ch/DDIS-Public/chimp-protege-plugin # Full URL

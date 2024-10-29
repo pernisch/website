@@ -3,11 +3,11 @@
     modal: True # If 'True' is selected, modal can open in 'portfolio.html'.
     image:
       path: ""
-      alt: "Interview"
+      alt: ""
     date: 2024
-    title: Work at Discovery Lab
-    summary: <iframe class="yt-video" src="https://www.youtube.com/embed/DckH7zpn_IU?si=EPenREDNDVSTErqk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-    description: Short interview about the work I did at the Discovery Lab.
+    title: Decision support for Companion Planting with CoPla Ontology
+    summary: 
+    description: 
 
 
 - project:

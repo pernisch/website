@@ -6,7 +6,7 @@ baseurl: ""
 publications: True
 projects: True
 presentations: True
-blog: False
+blog: True
 roles: True
 
 # Language of the website
@@ -37,9 +37,10 @@ theme_settings:
   projects_title: PROJECTS
   recentpubs_title: RECENT PUBLICATIONS
 
+
 # Pagination
-paginate: 5
-paginate_path: "blog/page:num"
+# paginate: False
+# paginate_path: "media/page:num"
 
 # Build Settings
 sass:
